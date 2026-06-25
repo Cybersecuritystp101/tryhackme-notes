@@ -6,3 +6,6 @@
 
 *Notes:* Today I set up my notebook and answered my first TryHackMe question correctly!
 
+*Notes2:* Today I learned all the roles in cybe security and I found what role i think suits me best!!
+I also learned all the parts of a computer motherboard, for example; the **cpu** is the brains for the computer and the **HDD** or **SDD** are both the long term memory, and etc! I am excited for tomorrow 
+
