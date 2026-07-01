@@ -9,7 +9,7 @@
 **Day two notes:**  Today I learned all the roles in cybe security and I found what role i think suits me best!!
 I also learned all the parts of a computer motherboard, for example; the *cpu* is the brains for the computer and the *HDD* or *SDD* are both the long term memory, and etc! I am excited for tomorrow 
 
-**Day I don't know notes**  Offensive Security is about thinking like an attacker to find weaknesses before real hackers do.
+**Day I don't know notes:**  Offensive Security is about thinking like an attacker to find weaknesses before real hackers do.
 
 In this room, you'll hack your first website in a safe and legal environment to see how ethical hackers operate. 
 
