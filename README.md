@@ -4,14 +4,12 @@
 * **Offensive Security:** Thinking like an attacker to find system vulnerabilities.
 * **Defensive Security:** Protecting systems and fixing weaknesses.
 
-*Day one notes:* Today I set up my notebook and answered my first TryHackMe question correctly!
+**Day one notes:**  Today I set up my notebook and answered my first TryHackMe question correctly!
 
-*Day two notes:* Today I learned all the roles in cybe security and I found what role i think suits me best!!
+**Day two notes:**  Today I learned all the roles in cybe security and I found what role i think suits me best!!
 I also learned all the parts of a computer motherboard, for example; the *cpu* is the brains for the computer and the *HDD* or *SDD* are both the long term memory, and etc! I am excited for tomorrow 
 
-*Day I don't know notes* Now that the core components are installed in the computer system, it is time to boot up the system. We can compare this to how we wake up in the morning and do a quick check to see if everything is working. Only when everything is OK, do we get up and start our day. The image below shows the steps a computer system goes through before it shows you a working interface (in the form of an Operating System).
-
-Offensive Security is about thinking like an attacker to find weaknesses before real hackers do.
+**Day I don't know notes**  Offensive Security is about thinking like an attacker to find weaknesses before real hackers do.
 
 In this room, you'll hack your first website in a safe and legal environment to see how ethical hackers operate. 
 
@@ -116,3 +114,5 @@ Now that our system knows the part of our brain where our consciousness is locat
 We have covered the core components of a computer system and how it boots up. At the moment, you won't realize this, but further on, when learning cyber security concepts, you will often need to recall the function of each of these core components and how they interact with each other. The boot process is a very important concept later on, as it is sometimes targeted by hackers.
 
 Now that we know the insides of a computer, the next step is to see how the different combinations and specializations of these components lead to diverse types of computer systems. Continue to the next room **Computer Types** (coming soon) to find out.
+ 
+ Now that the core components are installed in the computer system, it is time to boot up the system. We can compare this to how we wake up in the morning and do a quick check to see if everything is working. Only when everything is OK, do we get up and start our day. The image below shows the steps a computer system goes through before it shows you a working interface (in the form of an Operating System).
